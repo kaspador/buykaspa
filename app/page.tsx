@@ -6,7 +6,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-kaspa-dark relative overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-gray-800 relative overflow-hidden">
       
       {/* Floating Buy Buttons scattered across the page */}
       <div className="absolute inset-0">
